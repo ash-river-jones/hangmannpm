@@ -1,0 +1,11 @@
+{
+  "name": "hangmannpm",
+  "version": "1.0.0",
+  "description": "A fun, basic hangman game to play in your command line!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ash.river.jones",
+  "license": "ISC"
+}
